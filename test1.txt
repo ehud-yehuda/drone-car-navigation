@@ -1,5 +1,0 @@
-Hi Aviram!
-<<<<<<< HEAD
-let's get start
-test2
->>>>>>> udi_develop_maze
