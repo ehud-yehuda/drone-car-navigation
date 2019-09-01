@@ -10,3 +10,6 @@ examples:
 [an example of a simple maze 512*512](ex1.PNG)
 
 [maze with solution](ex2.PNG)
+
+for details with explanation how to run this code please click:
+[Run Instruction](Readme.txt)
