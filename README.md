@@ -8,4 +8,5 @@ Language: Python 3.6
 
 examples:
 [an example of a simple maze 512*512](ex1.PNG)
+
 [maze with solution](ex2.PNG)
