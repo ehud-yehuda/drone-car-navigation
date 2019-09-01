@@ -7,4 +7,4 @@ In this branch we will develop a simple algorithm to find the shortest path in a
 Language: Python 3.6
 
 example:
-[an example of a simple maze 512*512](drone-car-navigation/udi_develop_maze/ex1.png)
+[an example of a simple maze 512*512](ex1.PNG)
