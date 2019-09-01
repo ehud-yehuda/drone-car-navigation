@@ -12,4 +12,4 @@ examples:
 [maze with solution](ex2.PNG)
 
 for details with explanation how to run this code please click:
-[Run Instruction](Readme.txt)
+[Run Instruction](ReadMe.txt)
